@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0d9c3b8-870a-4948-9b61-afb86d841ddc" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_layout/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="blog_test.iws" />
@@ -22,10 +22,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="295" selection-start="405" selection-end="405" vertical-scroll-proportion="-3.75">
+            <state line="6" column="295" selection-start="405" selection-end="405" vertical-scroll-proportion="0.08866995">
               <folding />
             </state>
           </provider>
@@ -40,19 +40,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="22" selection-start="97" selection-end="97" vertical-scroll-proportion="0.05703422">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="46" selection-start="870" selection-end="870" vertical-scroll-proportion="-13.0">
+            <state line="25" column="46" selection-start="870" selection-end="870" vertical-scroll-proportion="-15.625">
               <folding />
             </state>
           </provider>
@@ -283,7 +274,11 @@
       <created>1352450365445</created>
       <updated>1352450365445</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new Blog pages">
+      <created>1352450552278</created>
+      <updated>1352450552278</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -373,14 +368,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="46" selection-start="870" selection-end="870" vertical-scroll-proportion="-13.0">
+        <state line="25" column="46" selection-start="870" selection-end="870" vertical-scroll-proportion="-15.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="22" selection-start="97" selection-end="97" vertical-scroll-proportion="0.05703422">
           <folding />
         </state>
       </provider>
@@ -394,14 +391,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="295" selection-start="405" selection-end="405" vertical-scroll-proportion="-3.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="22" selection-start="97" selection-end="97" vertical-scroll-proportion="0.05703422">
+        <state line="6" column="295" selection-start="405" selection-end="405" vertical-scroll-proportion="0.08866995">
           <folding />
         </state>
       </provider>
