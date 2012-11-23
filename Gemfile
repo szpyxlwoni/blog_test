@@ -5,6 +5,7 @@ source "http://gems.rubyforge.org"
 source :gemcutter
 source "http://gemcutter.org"
 
+gem 'jekyll'
 gem 'rails', '3.2.9'
 gem 'slim'
 gem 'pg'
