@@ -1,5 +1,6 @@
 module Jekyll
   require 'slim'
+
   class SlimConverter < Converter
     safe true
     priority :low
