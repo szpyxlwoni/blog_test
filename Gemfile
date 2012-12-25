@@ -1,9 +1,4 @@
-source :rubygems
-source "http://rubygems.org"
-source :rubyforge
-source "http://gems.rubyforge.org"
-source :gemcutter
-source "http://gemcutter.org"
+source "http://ruby.taobao.org"
 
 gem 'jekyll'
 gem 'rails', '3.2.9'
