@@ -1,0 +1,16 @@
+.header ul {
+  overflow: hidden;
+  list-style: none; }
+
+  .header ul li {
+    display: inline; }
+
+    .header ul li a {
+      display: block;
+      margin: 0 15px;
+      float: left; }
+
+.content {
+  display: block;
+  margin: 0, auto;
+  width: 100%; }
